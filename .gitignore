@@ -1,0 +1,26 @@
+# EE_1.08_2 Course Material
+# R. Becker, 2022-11-03, V001
+
+# Use .gitignore to not share all solutions at once.
+# By default ignore all directories containing solutions denoted by trailing pattern _soln
+
+*_soln/
+*_dev/
+*_old/
+*_tmp/
+*_INCLASS/
+tmp/
+*dev/
+
+*_soln.*
+*_INCLASS.*
+*_dev.*
+
+
+*.ipynb_checkpoints/
+*checkpoint.ipynb
+
+
+# Exceptions allow to disseminate the solutions selectively.
+
+#!gdms0100_DWD_NRW_soln
