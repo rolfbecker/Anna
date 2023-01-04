@@ -1,3 +1,3 @@
 # Code Snippets for Anna
 
-:sweat_smile: :mortar_board:
+:mortar_board: :sweat_smile: 
