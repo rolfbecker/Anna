@@ -1,5 +1,5 @@
 numpy>=1.2
 matplotlib>=3.5
 ipywidgets>=7.7
-pandas>=1.5
-plotly>=5.11
+pandas>=1.2
+plotly>=5.8
